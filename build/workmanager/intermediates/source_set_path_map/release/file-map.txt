@@ -1,0 +1,32 @@
+dev.fluttercommunity.workmanager-pngs-0 /Applications/my project /locksee/build/workmanager/generated/res/pngs/release
+dev.fluttercommunity.workmanager-resValues-1 /Applications/my project /locksee/build/workmanager/generated/res/resValues/release
+dev.fluttercommunity.workmanager-mergeReleaseResources-2 /Applications/my project /locksee/build/workmanager/intermediates/incremental/release/mergeReleaseResources/merged.dir
+dev.fluttercommunity.workmanager-mergeReleaseResources-3 /Applications/my project /locksee/build/workmanager/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+dev.fluttercommunity.workmanager-merged_res-4 /Applications/my project /locksee/build/workmanager/intermediates/merged_res/release
+dev.fluttercommunity.workmanager-jetified-lifecycle-livedata-core-ktx-2.7.0-5 /Users/pradeep.kumar/.gradle/caches/transforms-3/2104f0fea03419252de5cb865bc33137/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+dev.fluttercommunity.workmanager-jetified-annotation-experimental-1.4.0-6 /Users/pradeep.kumar/.gradle/caches/transforms-3/215affea8a6c52c7338923f6ed586875/transformed/jetified-annotation-experimental-1.4.0/res
+dev.fluttercommunity.workmanager-jetified-core-1.0.0-7 /Users/pradeep.kumar/.gradle/caches/transforms-3/2815729b64a2990afe5a146eebbdb448/transformed/jetified-core-1.0.0/res
+dev.fluttercommunity.workmanager-core-runtime-2.2.0-8 /Users/pradeep.kumar/.gradle/caches/transforms-3/2b8e54d31a141f3ff6ff893fb8611721/transformed/core-runtime-2.2.0/res
+dev.fluttercommunity.workmanager-fragment-1.7.1-9 /Users/pradeep.kumar/.gradle/caches/transforms-3/34b9e8114ed50492479eb875aa77a652/transformed/fragment-1.7.1/res
+dev.fluttercommunity.workmanager-sqlite-2.3.0-10 /Users/pradeep.kumar/.gradle/caches/transforms-3/358842f62ee5d2a775b66369f9334d25/transformed/sqlite-2.3.0/res
+dev.fluttercommunity.workmanager-jetified-lifecycle-service-2.7.0-11 /Users/pradeep.kumar/.gradle/caches/transforms-3/36ac0c6523493348b0d99f4138583f86/transformed/jetified-lifecycle-service-2.7.0/res
+dev.fluttercommunity.workmanager-jetified-window-java-1.2.0-12 /Users/pradeep.kumar/.gradle/caches/transforms-3/3d0412389d2966e83c19c51ceeb7e70b/transformed/jetified-window-java-1.2.0/res
+dev.fluttercommunity.workmanager-jetified-savedstate-1.2.1-13 /Users/pradeep.kumar/.gradle/caches/transforms-3/47338bbf8f160d000bb980bbb8741b0a/transformed/jetified-savedstate-1.2.1/res
+dev.fluttercommunity.workmanager-core-1.13.1-14 /Users/pradeep.kumar/.gradle/caches/transforms-3/4cefa050b0c4ea9b1f45909d19944071/transformed/core-1.13.1/res
+dev.fluttercommunity.workmanager-jetified-core-ktx-1.13.1-15 /Users/pradeep.kumar/.gradle/caches/transforms-3/4f2a8bc6baae5594059dcb4a3fa298d0/transformed/jetified-core-ktx-1.13.1/res
+dev.fluttercommunity.workmanager-lifecycle-livedata-2.7.0-16 /Users/pradeep.kumar/.gradle/caches/transforms-3/63159449652579a22ad00eeda6a72c63/transformed/lifecycle-livedata-2.7.0/res
+dev.fluttercommunity.workmanager-work-runtime-2.8.1-17 /Users/pradeep.kumar/.gradle/caches/transforms-3/69903e6c02391cb73d03026be36c086b/transformed/work-runtime-2.8.1/res
+dev.fluttercommunity.workmanager-room-runtime-2.5.0-18 /Users/pradeep.kumar/.gradle/caches/transforms-3/6d2131330129fa3242379c77ebe937bb/transformed/room-runtime-2.5.0/res
+dev.fluttercommunity.workmanager-jetified-startup-runtime-1.1.1-19 /Users/pradeep.kumar/.gradle/caches/transforms-3/6e8db5a03ecfd4c7003ff52b19d087f7/transformed/jetified-startup-runtime-1.1.1/res
+dev.fluttercommunity.workmanager-lifecycle-runtime-2.7.0-20 /Users/pradeep.kumar/.gradle/caches/transforms-3/8f08a4fb8a82b417cfcc866aaaa248aa/transformed/lifecycle-runtime-2.7.0/res
+dev.fluttercommunity.workmanager-jetified-activity-1.8.1-21 /Users/pradeep.kumar/.gradle/caches/transforms-3/9f8229ee71e2110416b6e261a05d3650/transformed/jetified-activity-1.8.1/res
+dev.fluttercommunity.workmanager-jetified-lifecycle-process-2.7.0-22 /Users/pradeep.kumar/.gradle/caches/transforms-3/a4def40035927cb6d856303427b50933/transformed/jetified-lifecycle-process-2.7.0/res
+dev.fluttercommunity.workmanager-jetified-lifecycle-viewmodel-savedstate-2.7.0-23 /Users/pradeep.kumar/.gradle/caches/transforms-3/a6ab75c46c16bb6c7a3c9df5177c45de/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+dev.fluttercommunity.workmanager-jetified-tracing-1.2.0-24 /Users/pradeep.kumar/.gradle/caches/transforms-3/ad98be4a1c53e6a1e097edbfc577b62d/transformed/jetified-tracing-1.2.0/res
+dev.fluttercommunity.workmanager-jetified-window-1.2.0-25 /Users/pradeep.kumar/.gradle/caches/transforms-3/b61292485483c7499e83c4f5c6f9bd1a/transformed/jetified-window-1.2.0/res
+dev.fluttercommunity.workmanager-sqlite-framework-2.3.0-26 /Users/pradeep.kumar/.gradle/caches/transforms-3/ba6c6736188a09515dd494930e6e827d/transformed/sqlite-framework-2.3.0/res
+dev.fluttercommunity.workmanager-lifecycle-viewmodel-2.7.0-27 /Users/pradeep.kumar/.gradle/caches/transforms-3/d69b771f4769b70dad1852df9d1e5343/transformed/lifecycle-viewmodel-2.7.0/res
+dev.fluttercommunity.workmanager-jetified-profileinstaller-1.3.1-28 /Users/pradeep.kumar/.gradle/caches/transforms-3/ec9fdb662d7f540d2603f340c7b5ab14/transformed/jetified-profileinstaller-1.3.1/res
+dev.fluttercommunity.workmanager-lifecycle-livedata-core-2.7.0-29 /Users/pradeep.kumar/.gradle/caches/transforms-3/f2c6006284de8fdbb59e6433bd7df941/transformed/lifecycle-livedata-core-2.7.0/res
+dev.fluttercommunity.workmanager-main-30 /Users/pradeep.kumar/.pub-cache/hosted/pub.dev/workmanager-0.5.2/android/src/main/res
+dev.fluttercommunity.workmanager-release-31 /Users/pradeep.kumar/.pub-cache/hosted/pub.dev/workmanager-0.5.2/android/src/release/res
