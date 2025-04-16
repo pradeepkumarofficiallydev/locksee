@@ -1,13 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:locksee/screens/AgoraSdk.dart';
 import 'package:locksee/screens/home_screen.dart';
 import 'package:locksee/screens/login_screen.dart';
 import 'package:locksee/screens/notification_screen.dart';
-import 'package:locksee/screens/redemption_screen.dart';
-import 'package:locksee/screens/refer_earn_screen.dart';
-import 'package:locksee/screens/register_screen.dart';
 import 'package:locksee/screens/splash_screen.dart';
-import 'package:locksee/screens/user_details_screen.dart';
 import 'package:locksee/utils/Preference.dart';
 import 'package:locksee/utils/translation_service.dart';
 
@@ -46,6 +43,8 @@ class MyApp extends StatefulWidget {
   _MyAppState createState() => _MyAppState();
 }
 
+
+
 class _MyAppState extends State<MyApp> {
   @override
   void initState() {
@@ -69,6 +68,7 @@ class _MyAppState extends State<MyApp> {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
 
+
       locale: widget.savedLocale,
       // Use saved language
 
@@ -80,9 +80,6 @@ class _MyAppState extends State<MyApp> {
         GetPage(name: '/', page: () => SplashScreen()),
         GetPage(name: '/dashboard', page: () => HomeScreen()),
         GetPage(name: '/signup', page: () => LoginScreen()),
-        GetPage(name: '/user_details_screen', page: () => UserDetailsScreen(),),
-       // GetPage(name: '/verification_screen', page: () => OTPVerificationScreen(),),
-        GetPage(name: '/redemption_screen', page: () => RedemptionScreen(),),
 
 
 
@@ -95,29 +92,17 @@ class _MyAppState extends State<MyApp> {
         switch (settings.name) {
           case '/':
             return MaterialPageRoute(builder: (context) => LoginScreen());
-          case '/register_screen':
-            return MaterialPageRoute(builder: (context) => RegisterScreen());
 
-          // case '/user_details_screen':
-          //   return MaterialPageRoute(builder: (context) => UserDetailsScreen(data:args ));
-          //
 
           case '/home_screen':
             return MaterialPageRoute(builder: (context) => HomeScreen());
 
-          case '/jj':
-            return MaterialPageRoute(builder: (context) => RegisterScreen());
 
           case '/notification_screen':
             return MaterialPageRoute(
                 builder: (context) => NotificationsScreen());
 
-          case '/refer_earn_screen':
-            return MaterialPageRoute(
-                builder: (context) => ReferAndEarnScreen());
 
-          case '/redemption_screen':
-            return MaterialPageRoute(builder: (context) => RedemptionScreen());
 
           default:
             return null; // Return null if the route is not found
@@ -129,6 +114,8 @@ class _MyAppState extends State<MyApp> {
         useMaterial3: true,
       ),
       home: SplashScreen(),
-    );
+
+
+     );
   }
 }

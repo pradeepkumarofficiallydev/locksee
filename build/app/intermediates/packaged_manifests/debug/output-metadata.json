@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.locksee.locksee",
+  "applicationId": "com.example.locksee",
   "variantName": "debug",
   "elements": [
     {

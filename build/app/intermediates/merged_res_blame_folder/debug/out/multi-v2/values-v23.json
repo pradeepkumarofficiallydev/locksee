@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.locksee.locksee.app-mergeDebugResources-5:/values-v23/values-v23.xml",
+            "outputFile": "com.example.locksee.app-mergeDebugResources-5:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/pradeep.kumar/.gradle/caches/transforms-3/881cb129928b7d48dd99db93fe86329b/transformed/appcompat-1.6.1/res/values-v23/values-v23.xml",
+                    "source": "/Users/pradeep.kumar/.gradle/caches/transforms-3/87888829041df7fa3e32d73e1bc29579/transformed/appcompat-1.6.1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/pradeep.kumar/.gradle/caches/transforms-3/69903e6c02391cb73d03026be36c086b/transformed/work-runtime-2.8.1/res/values-v23/values-v23.xml",
+                    "source": "/Users/pradeep.kumar/.gradle/caches/transforms-3/7cbbec4c352940ca8df62b41453876e1/transformed/work-runtime-2.8.1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
